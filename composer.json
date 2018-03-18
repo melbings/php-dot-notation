@@ -24,5 +24,6 @@
         "psr-4": {
             "Adbar\\": "src"
         }
-    }
+    },
+    "version": "dev-recursive-merge"
 }
